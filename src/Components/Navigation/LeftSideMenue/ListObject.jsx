@@ -17,7 +17,7 @@ const menuList = [
       {
          label: "Furnace Dashboard",
         icon: "FaBarsStaggered",
-        link: "/furnace/overview",
+        link: "https://app-furnace.onrender.com/furnace/overview/",
       },
       // {
       //   label: "Patanjali Dashboard",
